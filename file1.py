@@ -1,6 +1,6 @@
 def menu ():
-    print("0 per fermare il programma : ")
-    print("1 per inserire il codice giusto per aprire la porta : ")
+    print("0 per fermare il programma ")
+    print("1 per inserire il codice giusto per aprire la porta")
 
 def apertura ():
     x = input("inserisci il codice per aprire la porta: ")
